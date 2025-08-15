@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Prophecy24
 - 👀 I’m interested in coding Mobile Apps, DevOps & Cybersecurity.
-- 🌱 I’m currently learning Java, x86 Assembly language,  Data Structures, Operating Systems & Programming Languages.
+- 🌱 I’m currently learning Java, x86 Assembly language,  Data Structures, Python, Operating Systems & Programming Language Theory.
 - 💞️ I’m looking to collaborate on Cybersecurity for now.
 - 📫 How to reach me Prophecymvmt@gmail.com or @Ph4nt0m.dr4g0n19 
 -
